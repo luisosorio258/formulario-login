@@ -12,7 +12,7 @@ body {
     align-items: center;
 }
 
-.login-container {
+.login__container {
     min-height: 400px;
     width: 300px;
     background-color: #ffffff;
@@ -24,12 +24,12 @@ body {
     align-items: center;
 }
 
-.login-title {
+.login__title {
     margin-bottom: 32px;
     color: #303030;
 }
 
-.login-form {
+.login__form {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -37,7 +37,7 @@ body {
     align-items: center;
 }
 
-.login-input {
+.login__input {
     height: 48px;
     width: 100%;
     box-sizing: border-box;
@@ -46,7 +46,7 @@ body {
     outline: none;
 }
 
-.login-input-border {
+.login__input-border {
     height: 1px;
     width: 100%;
     margin-bottom: 16px;
